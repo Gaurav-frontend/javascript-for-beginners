@@ -101,4 +101,4 @@ if (x>0)
 }
 else {
     document.write('number is negative');
-};
+};  
